@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27703.2042
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Sql", "Sql", "{E5A7F91F-1963-4821-8310-8FBB1814510D}"
+	ProjectSection(SolutionItems) = preProject
+		Create_Database_WcfCRUD.sql = Create_Database_WcfCRUD.sql
+		V1__Create_Table.sql = V1__Create_Table.sql
+		V2__Create_Procedure_Update.sql = V2__Create_Procedure_Update.sql
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {60BD0DBE-B4D7-4E74-ADAA-1F5EBA985E93}
+	EndGlobalSection
+EndGlobal
